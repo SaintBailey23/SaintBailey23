@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Coding, Web Dev, Front-end Dev
 - 💞️ I’m looking to collaborate on Learning and building of Websites
-- 📫 How to reach me baileyoniode@gmail.com
+- 📫 How to reach me baileyonibode@gmail.com
 
 <!---
 SaintBailey23/SaintBailey23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
